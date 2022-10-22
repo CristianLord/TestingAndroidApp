@@ -1,0 +1,1 @@
+<resources><string name="app_name">TestingAndroid</string><string name="action_settings">Settings</string><string name="main_welcome">Hello, what is your name?</string><string name="main_textName.hint">Name...</string><string name="main_buttonNext.text">Next</string><string name="test_text">This is a test text</string></resources>
